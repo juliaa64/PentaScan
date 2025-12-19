@@ -1,0 +1,9 @@
+numpy 
+opencv-contrib-python 
+matplotlib 
+scipy 
+ipywidgets 
+scikit-image 
+ipympl
+pandas
+tensorflow
