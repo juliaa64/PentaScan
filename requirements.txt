@@ -7,3 +7,9 @@ scikit-image
 ipympl
 pandas
 tensorflow
+torch
+torchvision
+torchaudio
+pillow
+scikit-learn
+music21
