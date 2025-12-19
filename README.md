@@ -1,4 +1,4 @@
-# PentaScan: Digitalización y Reproducción de Partituras
+# 𝄐 PentaScan: Digitalización y Reproducción de Partituras
 
 PentaScan es un proyecto de Reconocimiento Óptico de Música (**OMR**) que utiliza modelos de *Deep Learning* para **digitalizar partituras** a partir de una imagen y convertirlas en un formato estructurado (XML y MID) para su posterior uso o reproducción.
 
