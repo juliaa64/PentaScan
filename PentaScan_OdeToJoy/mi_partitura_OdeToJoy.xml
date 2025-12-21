@@ -2,9 +2,9 @@
 <!DOCTYPE score-partwise  PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="4.0">
   <work>
-    <work-title>Partitura Visión</work-title>
+    <work-title>Partitura Visión Ode To Joy</work-title>
   </work>
-  <movement-title>Partitura Visión</movement-title>
+  <movement-title>Partitura Visión Ode To Joy</movement-title>
   <identification>
     <creator type="composer">PentaScan</creator>
     <encoding>
@@ -19,21 +19,21 @@
     </scaling>
   </defaults>
   <part-list>
-    <score-part id="P2c6260cb44b6d04f547b0b57f17a5025">
+    <score-part id="Pe80fd356fce4bcb7618499d9a7cd91ca">
       <part-name>Piano</part-name>
       <part-abbreviation>Pno</part-abbreviation>
-      <score-instrument id="Ifeaa26ae938a11956d816fec989a56b3">
+      <score-instrument id="I74990f12b745f5f181ed0194588a91a2">
         <instrument-name>Piano</instrument-name>
         <instrument-abbreviation>Pno</instrument-abbreviation>
       </score-instrument>
-      <midi-instrument id="Ifeaa26ae938a11956d816fec989a56b3">
+      <midi-instrument id="I74990f12b745f5f181ed0194588a91a2">
         <midi-channel>1</midi-channel>
         <midi-program>1</midi-program>
       </midi-instrument>
     </score-part>
   </part-list>
   <!--=========================== Part 1 ===========================-->
-  <part id="P2c6260cb44b6d04f547b0b57f17a5025">
+  <part id="Pe80fd356fce4bcb7618499d9a7cd91ca">
     <!--========================= Measure 1 ==========================-->
     <measure implicit="no" number="1">
       <attributes>
@@ -58,7 +58,7 @@
       </direction>
       <note>
         <pitch>
-          <step>A</step>
+          <step>B</step>
           <octave>4</octave>
         </pitch>
         <duration>40320</duration>
@@ -69,7 +69,7 @@
     <measure implicit="no" number="2">
       <note>
         <pitch>
-          <step>G</step>
+          <step>B</step>
           <octave>4</octave>
         </pitch>
         <duration>40320</duration>
@@ -80,8 +80,8 @@
     <measure implicit="no" number="3">
       <note>
         <pitch>
-          <step>A</step>
-          <octave>4</octave>
+          <step>C</step>
+          <octave>5</octave>
         </pitch>
         <duration>40320</duration>
         <type>whole</type>
@@ -91,8 +91,8 @@
     <measure implicit="no" number="4">
       <note>
         <pitch>
-          <step>B</step>
-          <octave>4</octave>
+          <step>D</step>
+          <octave>5</octave>
         </pitch>
         <duration>40320</duration>
         <type>whole</type>
@@ -102,8 +102,8 @@
     <measure implicit="no" number="5">
       <note>
         <pitch>
-          <step>B</step>
-          <octave>4</octave>
+          <step>D</step>
+          <octave>5</octave>
         </pitch>
         <duration>40320</duration>
         <type>whole</type>
@@ -113,8 +113,8 @@
     <measure implicit="no" number="6">
       <note>
         <pitch>
-          <step>A</step>
-          <octave>4</octave>
+          <step>C</step>
+          <octave>5</octave>
         </pitch>
         <duration>40320</duration>
         <type>whole</type>
@@ -124,7 +124,7 @@
     <measure implicit="no" number="7">
       <note>
         <pitch>
-          <step>G</step>
+          <step>B</step>
           <octave>4</octave>
         </pitch>
         <duration>40320</duration>
@@ -146,8 +146,8 @@
     <measure implicit="no" number="9">
       <note>
         <pitch>
-          <step>A</step>
-          <octave>4</octave>
+          <step>C</step>
+          <octave>5</octave>
         </pitch>
         <duration>40320</duration>
         <type>whole</type>
@@ -155,9 +155,18 @@
     </measure>
     <!--========================= Measure 10 =========================-->
     <measure implicit="no" number="10">
+      <direction>
+        <direction-type>
+          <metronome parentheses="no">
+            <beat-unit>quarter</beat-unit>
+            <per-minute>44</per-minute>
+          </metronome>
+        </direction-type>
+        <sound tempo="44" />
+      </direction>
       <note>
         <pitch>
-          <step>B</step>
+          <step>A</step>
           <octave>4</octave>
         </pitch>
         <duration>40320</duration>
@@ -179,7 +188,7 @@
     <measure implicit="no" number="12">
       <note>
         <pitch>
-          <step>A</step>
+          <step>B</step>
           <octave>4</octave>
         </pitch>
         <duration>40320</duration>
@@ -190,7 +199,7 @@
     <measure implicit="no" number="13">
       <note>
         <pitch>
-          <step>G</step>
+          <step>B</step>
           <octave>4</octave>
         </pitch>
         <duration>40320</duration>
@@ -201,8 +210,8 @@
     <measure implicit="no" number="14">
       <note>
         <pitch>
-          <step>G</step>
-          <octave>4</octave>
+          <step>C</step>
+          <octave>5</octave>
         </pitch>
         <duration>40320</duration>
         <type>whole</type>
@@ -213,17 +222,6 @@
       <note>
         <pitch>
           <step>A</step>
-          <octave>4</octave>
-        </pitch>
-        <duration>40320</duration>
-        <type>whole</type>
-      </note>
-    </measure>
-    <!--========================= Measure 16 =========================-->
-    <measure implicit="no" number="16">
-      <note>
-        <pitch>
-          <step>G</step>
           <octave>4</octave>
         </pitch>
         <duration>40320</duration>
