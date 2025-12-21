@@ -8,13 +8,14 @@ PentaScan es un proyecto de Reconocimiento Óptico de Música (**OMR**) que util
 
 | Archivo/Carpeta | Descripción |
 | :--- | :--- |
-| `dataset/` | **Conjunto de datos** de imágenes (e.g., `redonda la`, `clave de sol`, `tempo cuatro por cuatro`) esencial para el entrenamiento del modelo OMR. |
+| `dataset/` | Conjunto de datos de imágenes (e.g., `redonda la`, `clave de sol`, `tempo cuatro por cuatro`) esencial para el entrenamiento del modelo OMR. |
 | `PentaScan.ipynb` | Cuaderno Jupyter para procesar las imágenes del *dataset*, analizar una nueva imagen de partitura, digitalizarla y reproducir el audio. |
 | `partitura_analizar.png` | Partitura que se quiere procesar para transcribirla y reproducirla. |
 | `mi_partitura.xml` | Archivo para editar desde programas como MuseScore la partitura generada. |
 | `mi_partitura.mid` | Archivo de audio que reproduce la partitura generada. |
 | `embeddings.npz` | Embeddings generados en el procesamiento de datos, incluyendo nuestro *dataset* y el *data augmentation*. |
 | `requirements.txt` | Lista de dependencias necesarias (TensorFlow, OpenCV, music21, etc.). |
+| `PentaScan_OdeToJoy/` | Subcarpeta con el proyecto para la partitura de *Ode to Joy* (incluye un *dataset* más amplio). |
 | `README.md` | Este documento. |
 | `LICENSE` | Licencia del proyecto PentaScan. |
 
